@@ -9,9 +9,9 @@ Highly proficient and experienced Game Developer working in the Computer Games i
 <a href="https://www.linkedin.com/in/ali-unal-a8b110160/">
   <img align="left" alt="LinkedIN" width="22px" src="https://github.com/Falcotte/Falcotte/blob/main/Visuals/linkedin.svg" />
 </a>
-<a href="https://discordapp.com/users/Falcotte#9635">
-  <img align="left" alt="Discord" width="22px" src="https://github.com/Falcotte/Falcotte/blob/main/Visuals/discord.svg" />
-</a>
 <a href="https://twitter.com/0033484Fal">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/Falcotte/Falcotte/blob/main/Visuals/twitter.svg" />
+</a>
+<a href="https://discordapp.com/users/Falcotte#9635">
+  <img align="left" alt="Discord" width="22px" src="https://github.com/Falcotte/Falcotte/blob/main/Visuals/discord.svg" />
 </a>
