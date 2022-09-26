@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/Falcotte/Falcotte/blob/main/Visuals/obiwan-hellothere.gif)
 
 <!--
 **Falcotte/Falcotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
